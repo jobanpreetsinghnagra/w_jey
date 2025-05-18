@@ -10,6 +10,6 @@ gem "csv"
 gem "bigdecimal"
 gem "base64"
 gem "logger"
-gem "jekyll"
+#gem "jekyll"
 gem 'github-pages',"~>232",group: :jekyll_plugins
 gemspec
