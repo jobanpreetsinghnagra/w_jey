@@ -1,3 +1,7 @@
+---
+layout: post
+title: Project Resources Forked from twitter
+
 # 100 Coding projects / ideas / products - 30DaysCoding.com 
 
 **Table of contents:**
