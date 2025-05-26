@@ -3,7 +3,7 @@ layout: post
 title: Project Resources Forked from twitter
 ---
 
-# 100 Coding projects / ideas / products - 30DaysCoding.com 
+# Structured the resources in the thread
 
 **Table of contents:**
 * How to find project ideas?? 

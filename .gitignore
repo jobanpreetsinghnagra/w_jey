@@ -7,12 +7,3 @@
 _site
 vendor
 Gemfile.lock
-# Ignore specific post files
-_posts/2020-07-06-strange-post.md
-_posts/2020-07-07-overview-post.md
-_posts/2020-07-08-language-tests.md
-_posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md
-_posts/2020-07-09-post-example-with-headings-and-toc.md
-_posts/2020-07-09-post-example-with-hr.md
-_posts/2023-02-03-jektex-post.md
-_posts/2024-05-05-a-great-artist.md
