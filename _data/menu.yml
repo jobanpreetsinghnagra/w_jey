@@ -4,8 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: I am sophmore B.Tech Computer Science student.
-      - title: I'm passionate about astrophotography , image processing and the incredible world of computer vision.
+      - title: I am a Pre-Final UG pursuing Computer .
+      - title: I'm passionate about astrophotography , image processing ,computer vision and deploying practical ML solutions.
 
   - title: Catch me Here
     entries:
@@ -13,6 +13,16 @@ entries:
       url: https://github.com/jobanpreetsinghnagra
     - title: X(formerly Twitter)
       url: https://x.com/j0bannagra
+    - title: Hugging Face
+      url: https://huggingface.co/jobannagra
+
+  - title: Projects
+    entries:
+      - title: Mushroom Classifier
+        url: https://github.com/jobanpreetsinghnagra/Mushroom_Classification
+      - title: Student Perfomance Predictor
+        url: https://github.com/jobanpreetsinghnagra/student_predictor
+
 
   - title: all posts
     post_list:
@@ -24,10 +34,4 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+  
